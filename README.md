@@ -1,0 +1,2 @@
+# ProprietatiDeVanzare
+Proiect blockchain
